@@ -10,6 +10,7 @@ export default function Home() {
         src={horoImg}
         alt="Imagem hero do dev controle"
         width={600}
+        priority
         className="max-w-sm md:max-w-xl"
       />
     </main>
